@@ -15,3 +15,5 @@ setup(packages=find_packages(),
       cmdclass = {'build_ext': build_ext},
       ext_modules = cythonize(ext, language_level="3"),
      )
+
+# python setup.py build_ext --inplace
