@@ -29,9 +29,4 @@ which are the area of the unit square and the area of the unit circle respective
 
 <img src="https://render.githubusercontent.com/render/math?math={\Large \pi = {4 \cdot A_{\text{circle}}} / {A_{\text{square}}}}">.
 
-One can use a Monte Carlo approach to calculate both the area of the circle and the area of the square. While the area of the square can be calculated by N points (2D vectors) defined as <img src="https://render.githubusercontent.com/render/math?math={\large s_i = (x_i, y_i)}"> with <img src="https://render.githubusercontent.com/render/math?math={\large x_i}"> and <img src="https://render.githubusercontent.com/render/math?math={\large y_i}"> with values within the range of <img src="https://render.githubusercontent.com/render/math?math={\large [-1, 1]}">, the area of the circle is defined by the amount of samples that satisfy <img src="https://render.githubusercontent.com/render/math?math={\large x_i^2 ++ y_i^2 \leq 1}">.
-
-
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;F=P(1+\frac{i}{n})^{nt})
-
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;{\pi}=P(1+\frac{i}{n})^{nt})
+One can use a Monte Carlo approach to calculate both the area of the circle and the area of the square. While the area of the square can be calculated by N points (2D vectors) defined as <img src="https://render.githubusercontent.com/render/math?math={\large s_i = (x_i, y_i)}"> with <img src="https://render.githubusercontent.com/render/math?math={\large x_i}"> and <img src="https://render.githubusercontent.com/render/math?math={\large y_i}"> with values within the range of <img src="https://render.githubusercontent.com/render/math?math={\large [-1, 1]}">, the area of the circle is defined by the amount of samples that satisfy <img src="https://render.githubusercontent.com/render/math?math={\large x_i^2}"> + <img src="https://render.githubusercontent.com/render/math?math={\large y_i^2 \leq 1}">
