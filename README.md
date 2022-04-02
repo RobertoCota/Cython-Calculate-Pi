@@ -34,6 +34,8 @@ One can use a Monte Carlo approach to calculate both the area of the circle and 
 ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\pi=4\cdot\frac{A_{\text{circle}}}{A_{\text{square}}}\Rightarrow4\cdot\frac{\text{points%20in%20circle}}{\text{points%20in%20square}})
 
 
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\pi=4\cdot\frac{A_{\text{circle}}}{A_{\text{square}}}\Rightarrow4\cdot\frac{\text{points%20in%20circle}}{\text{points%20in%20square}}">
+
 
 
 
