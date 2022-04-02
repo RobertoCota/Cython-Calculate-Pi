@@ -34,4 +34,4 @@ One can use a Monte Carlo approach to calculate both the area of the circle and 
 
 ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;F=P(1+\frac{i}{n})^{nt})
 
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;pi=P(1+\frac{i}{n})^{nt})
+![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;{\pi}=P(1+\frac{i}{n})^{nt})
