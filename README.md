@@ -23,5 +23,4 @@ In order to calculate the value of pi one can consider a unit circle embeded in 
 a^2+b^2=c^2
 ```
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
-<img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
