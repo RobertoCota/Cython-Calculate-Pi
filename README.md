@@ -39,8 +39,8 @@ One can use a Monte Carlo approach to calculate both the area of the circle and 
 	<img src="https://render.githubusercontent.com/render/math?math={\Large \pi = {4 \cdot A_{\text{circle}}} / {A_{\text{square}}}}">.
 </p>
 
-<p align="center">
-	![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\pi=4\cdot\frac{A_{\text{circle}}}{A_{\text{square}}})
-</p>
+
+![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\pi=4\cdot\frac{A_{\text{circle}}}{A_{\text{square}}})
+
 
 
