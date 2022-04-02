@@ -23,5 +23,8 @@ In order to calculate the value of pi one can consider a unit circle embeded in 
 a^2+b^2=c^2
 ```
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-<img src="https://render.githubusercontent.com/render/math?math=\Large e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\Large A_{\text{square}}=4 r^2">
+
+and 
+
+<img src="https://render.githubusercontent.com/render/math?math=\Large A_{\text{circle}}=\pi r^2">
