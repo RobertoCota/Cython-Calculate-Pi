@@ -23,4 +23,4 @@ In order to calculate the value of <img src="https://render.githubusercontent.co
 
 which are the area of the unit square and the area of the unit circle respectively, which can combine to estimate the value of <img src="https://render.githubusercontent.com/render/math?math={\large \pi}"> as:
 
-<img src="https://render.githubusercontent.com/render/math?math={\Large \pi = \frac{4 \cdot A_{\text{circle}}}{A_{\text{square}}}}">
+<img src="https://render.githubusercontent.com/render/math?math={\Large \pi = {4 \cdot A_{\text{circle}}} / {A_{\text{square}}}}">
